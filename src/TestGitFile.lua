@@ -6,7 +6,7 @@
 
 --- Testing github files for LUA on ComputerCraft :o
 
-for i = 0, 4, 1
+for i = 0, i < 4, 1
 do
-    print("hi")
+    print("eat fries")
 end
