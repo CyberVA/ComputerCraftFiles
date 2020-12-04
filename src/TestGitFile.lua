@@ -4,7 +4,7 @@
 --- DateTime: 12/3/2020 10:32 PM
 ---
 
---- Testing github files for LUA on ComputerCraft
+--- Testing github files for LUA on ComputerCraft :o
 
 for i = 10, 4, 1
 do
